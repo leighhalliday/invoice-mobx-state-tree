@@ -1,0 +1,46 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.App {
+  width: 50%;
+  max-width: 300px;
+  margin: 0 auto;
+}
+
+button {
+  padding: 0.5rem;
+  border-radius: 0px;
+  border: 1px solid black;
+  background-color: transparent;
+}
+
+form {
+  margin: 2rem 0px;
+}
+
+form button {
+  padding: 0.5rem 2rem;
+}
+
+label {
+  margin-bottom: 0.5rem;
+  display: block;
+}
+
+input {
+  width: 100%;
+  padding: 0.5rem;
+}
+
+li {
+  list-style: none;
+  margin-bottom: 0.5rem;
+}
+
+li button {
+  display: inline-block;
+  margin-left: 0.5rem;
+}
